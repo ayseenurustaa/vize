@@ -1,0 +1,76 @@
+.genel{
+  width: 1060px;;
+  height: 900px;;
+}
+
+.menu{
+  width: 100px;
+  height: 900px;
+  margin: auto;
+  background-color: white;
+  float: inherit;
+}
+
+.siteadı{
+  margin-left: 100px;
+  margin-top: 100px;
+  font-size: 28px;
+  font-family: serif;
+}
+
+
+.mainmenu{
+  width: 100px;
+  height: 100px;
+  margin-left: 120px;
+  margin-top: 80px;
+  margin-bottom: 5px;
+}
+
+.mainmenulist{
+  color: black;
+  height: 35px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.mainmenulist a{
+  text-decoration: none;
+  color: black;
+}
+
+.kullanıcıgirisi{
+  width: 100px;
+  height: 100px;
+  margin-left: 110px;
+  margin-top: 90px;
+}
+
+.kullanicigirisib{
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.kullanıcıgirisi a{
+  text-decoration: none;
+  color: black;
+}
+
+.kullanıcıgirisitext{
+  width: 300px;
+}
+
+.sayfa{
+  width: 1060px;
+  height: 1500px;
+  background-color: #f2f2f2;
+  margin-left: 450px;
+  margin-top: -500px;
+}
+
+.sayfa textarea{
+  margin-left: 200px;
+  margin-top: 100px;
+  font-family: sans-serif;
+
+}
